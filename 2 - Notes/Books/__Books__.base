@@ -1,0 +1,14 @@
+properties:
+  file.tags:
+    displayName: file tags
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Obsidian_Synced/2 - Notes/Books")
+        - file.name.startsWith("__main_")
+    order:
+      - file.name
+      - file.tags
+    sort: []
