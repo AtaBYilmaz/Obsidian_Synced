@@ -6,3 +6,4 @@
 - [[Ch2 ASM_2025.pdf]]
 # Personal Notes
 - [[EE445_Week_1.excalidraw]]
+- [[EE445_Week_2.excalidraw]]
