@@ -1,0 +1,7 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Obsidian_Synced/2 - Notes/Papers")
+        - file.name.startsWith("__main_")
