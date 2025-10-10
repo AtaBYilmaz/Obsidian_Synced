@@ -4,4 +4,4 @@ views:
     filters:
       and:
         - file.inFolder("Obsidian_Synced/2 - Notes/Videos")
-        - file.name.startsWith("__main_")
+        - '!file.name.startsWith("__")'
