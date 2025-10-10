@@ -1,4 +1,5 @@
-## 1.1 General Material Properties
+## [[Advanced Semiconductor Fundamentals.pdf#page=9&offset=,309,|1.1 General Material Properties]]
+
 > [!PDF|] [[Advanced Semiconductor Fundamentals.pdf#page=9&selection=103,0,133,41|p.9]]
 > > Due in large part to the advanced state of its fabrication technology, Si is far and away the most important of the semiconductors, totally dominating the present commercial market.
 
@@ -12,3 +13,12 @@
 > 
 > Some nice examples, however, I must note that in the second example the Polycrystalline Si is not used as a semiconductor. Is this really what's been trying to shown here?
 ## [[Advanced Semiconductor Fundamentals.pdf#page=13&offset=,466,|1.2 Crystal Structure]]
+> [!PDF|question] [[Advanced Semiconductor Fundamentals.pdf#page=16&selection=24,26,42,82&color=question|Advanced Semiconductor Fundamentals, p.16]]
+> > The number of unique point lattices is, however, quitc smal1. Bravais, in the 1840's, proved that there are just 14 different ways of arranging points in space latices such that all the lattice points have exactly the same surroundings.
+> 
+> How does one prove such a thing? Where do you even begin?
+
+> [!PDF|question] [[Advanced Semiconductor Fundamentals.pdf#page=16&selection=96,0,128,83&color=question|Advanced Semiconductor Fundamentals, p.16]]
+> > In fact, to characterize real crystal lattices it is often necessary to associate a group of atoms or a molecule with each point on a Bravais lattice. Naturally, this increases the number of unique lattice arrangements. When the geometrical properties of the molecules or groups of atoms at each lattice point are taken into account, one finds that there are 230 different repetitive patterns in which atomic elements can be arranged to form actual crystal structures. We point this out because the unit cells for semiconductor crystals are typically more complex than Bravais cells
+> 
+> Oh, so what Bravais did was a mathematical inquiry, not a physical one. 

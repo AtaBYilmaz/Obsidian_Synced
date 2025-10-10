@@ -1,0 +1,1 @@
+Well, an hour of gemini prompting has resulted in absolutely nothing. Might need to ask CB.

@@ -7,3 +7,6 @@
 # Personal Notes
 - [[EE419_Week_1.excalidraw]]
 - [[EE419_Week_2.excalidraw]]
+
+# Questions
+- [[The Reasons of the Ultraviolet Catastrophe]]
