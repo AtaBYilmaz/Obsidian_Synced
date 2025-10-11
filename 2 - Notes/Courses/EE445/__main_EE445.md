@@ -1,5 +1,5 @@
 # Books
-- [[Digital Design Global Edition.pdf]]
+- [[__main_Digital Design Global Edition]]
 - [[Digital Design and Computer Architecture ARM Edition.pdf]]
 # Lectures Notes
 - [[Ch1 INTRODUCTION_2025.pdf]]
