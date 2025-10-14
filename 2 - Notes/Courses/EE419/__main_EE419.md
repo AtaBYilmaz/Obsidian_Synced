@@ -1,5 +1,5 @@
 # Books
-- [[__main_Advanced Semiconductor Fundamentals]]
+- [[__main_Advanced Semiconductor Fundamentals|Advanced Semiconductor Fundamentals]]
 
 # Lectures Notes
 - [[EE419_LECTURE_NOTES_2025_26.pdf]]
